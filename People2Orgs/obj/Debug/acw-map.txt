@@ -1,0 +1,2 @@
+People2Orgs.MainActivity;people2orgs.MainActivity
+People2Orgs.RetroalimentacionActivity;people2orgs.RetroalimentacionActivity
